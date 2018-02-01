@@ -1,0 +1,20 @@
+.heading {
+    height: 100px;
+    width: 100%;
+    display: block;    
+    background-color: #f4f4f4;
+}
+
+.days {
+    height: auto;
+    width: 100%;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.control {
+    position: relative;    
+    height: 50%;
+    width: 100%;
+    top: 50%;
+}
